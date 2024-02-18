@@ -1,2 +1,5 @@
 
 .DS_Store
+02_Driving times/ambulance_locations.parquet.gzip
+02_Driving times/mug_locations_latlon.parquet.gzip
+02_Driving times/pit_locations_latlon.parquet.gzip
