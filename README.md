@@ -4,7 +4,7 @@
 
 
 ### Introduction
-Optimize the placement of AEDs is crucial to save lives. In this project, we aim to propose a AED allocation strategy based on the analysis of the accessibility of AEDs and medical transport (Ambulance, MUG and PIT), and historical data of cardiac arrest intervention in Belgium. We calculate the areas where medical transport and AED are not accessible within specific time, and visualize the "void" areas, and based on the histrical data and accessibility of AED, we propose AED placement strategy in a specific area.
+Optimizing the placement of AEDs is crucial to increase post-cardiac arrest survival rate. In this project, we propose an AED allocation strategy based on the analysis of the accessibility of AEDs, medical transport (Ambulance, MUG and PIT), and historical data of cardiac arrest intervention in Belgium. We calculate the areas where medical transport and AED are not accessible within specific time, and visualize the "void" or inaccessible areas, and based on the historical data and accessibility of AED, we propose AED placement strategy in a specific area.
 
 ### Folder Structure
 1. `01_Dataset/` <br>
